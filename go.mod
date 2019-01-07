@@ -1,1 +1,1 @@
-module github.com/arthurnavah/GoCalculator/v2
+module github.com/arthurnavah/go-calculator/v2

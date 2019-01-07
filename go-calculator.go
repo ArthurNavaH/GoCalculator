@@ -1,4 +1,4 @@
-package GoCalculator
+package gocalculator
 
 import "fmt"
 
